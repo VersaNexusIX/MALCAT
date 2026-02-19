@@ -1,0 +1,1 @@
+# MALCAT\n\nExperimental static malware triage toolkit with ARM64 assembly core, C bridge, and Zig/C CLI. Built for learning low-level analysis and file forensics.
